@@ -1,4 +1,2 @@
-- [download](/download)
-- language
-  - [en](/)
-  - [中文](/zh-cn)
+- [中文](/zh-cn)
+- [en](/)
